@@ -7,7 +7,7 @@
 
 ### Useful tools
 * Image uploader: https://imgbb.com/upload
-* HTML/CSS/JS editing : http://codepen.io
+* Online Code Editor : http://codepen.io
 
 # Exercise 1
 ```html
