@@ -93,7 +93,9 @@ p {
 
 ### Video Embed Code
 
-```html <iframe class="embed-trailer" src="https://secure.disney.com/embed/567d0efa99233716e22d0479?domain=video.disney.ph" frameborder="0" allowfullscreen=""></iframe>```
+```html 
+<iframe class="embed-trailer" src="https://secure.disney.com/embed/567d0efa99233716e22d0479?domain=video.disney.ph" frameborder="0" allowfullscreen=""></iframe>
+```
 
 ### HTML
 
