@@ -24,13 +24,14 @@
 ```
 
 
-# Exercise 2 - https://codepen.io/wil-fu/pen/vjWqdp
+# Exercise 2 
+#### https://codepen.io/wil-fu/pen/vjWqdp
 
 ### Assets URL
 
 * Mickey sprite - https://image.ibb.co/jxZ7uJ/sprite2.png
 
-### HTML - https://codepen.io/wil-fu/pen/RBNmOy
+### HTML
 
 ```html
 <html>
@@ -81,7 +82,8 @@ p {
 ```
 
 
-# Exercise 3
+# Exercise 3 
+#### https://codepen.io/wil-fu/pen/RBNmOy
 
 ### Assets URL
 
