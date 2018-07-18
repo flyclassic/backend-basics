@@ -24,13 +24,14 @@
 ```
 
 
-# Exercise 2
+# Exercise 2 - https://codepen.io/wil-fu/pen/vjWqdp
 
 ### Assets URL
 
 * Mickey sprite - https://image.ibb.co/jxZ7uJ/sprite2.png
 
-### HTML
+### HTML - https://codepen.io/wil-fu/pen/RBNmOy
+
 ```html
 <html>
 <header>
@@ -87,6 +88,10 @@ p {
 * Background image - https://image.ibb.co/mYQLkT/bg_main.jpg
 * Placements Ads image - https://image.ibb.co/hhKJ1y/placement_ad.jpg
 * Link Destination - https://www3.lenovo.com/ph/en/jedichallenges/
+
+### Video Embed Code
+
+```html <iframe class="embed-trailer" src="https://secure.disney.com/embed/567d0efa99233716e22d0479?domain=video.disney.ph" frameborder="0" allowfullscreen=""></iframe>```
 
 ### HTML
 
