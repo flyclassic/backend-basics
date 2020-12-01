@@ -87,14 +87,13 @@ p {
 
 ### Assets URL
 
-* Background image - https://image.ibb.co/mYQLkT/bg_main.jpg
-* Placements Ads image - https://image.ibb.co/hhKJ1y/placement_ad.jpg
-* Link Destination - https://www3.lenovo.com/ph/en/jedichallenges/
+* Background image - https://i.ibb.co/hMjVn0f/soul-background-image.jpg
+* Placements Ads image - https://i.ibb.co/HBFL9y4/placement-ads-dplus.png
 
 ### Video Embed Code
 
 ```html 
-<iframe class="embed-trailer" src="https://secure.disney.com/embed/567d0efa99233716e22d0479?domain=video.disney.ph" frameborder="0" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hwe7XDz2HNo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" class="embed-trailer"  allowfullscreen></iframe>
 ```
 
 ### HTML
@@ -108,11 +107,12 @@ p {
 
 <body>
   <h1>Example 3</h1>
-  <p><button>Shop Now</button></p>
+  <p><button>Discover Now</button></p>
 
-   <a class="placement-ad" href="https://www3.lenovo.com/ph/en/jedichallenges/"><img src="https://image.ibb.co/hhKJ1y/placement_ad.jpg" /></a>
+   <a class="placement-ad" href=""><img src="https://i.ibb.co/HBFL9y4/placement-ads-dplus.png" /></a>
+  <br/>
  
-  <iframe class="embed-trailer" src="https://secure.disney.com/embed/567d0efa99233716e22d0479?domain=video.disney.ph" allowfullscreen=""></iframe>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/hwe7XDz2HNo" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" class="embed-trailer"  allowfullscreen></iframe>
 
 </body>
 
@@ -130,10 +130,10 @@ p {
 }
 
 body{ 
-  background-image:url(https://image.ibb.co/mYQLkT/bg_main.jpg);
+  background-image:url("https://i.ibb.co/hMjVn0f/soul-background-image.jpg");
   background-position:top;
   background-size:cover;
-  background-repeat: no-repeat;
+  background-repeat: repeat;
 }
 
 button {
@@ -155,7 +155,7 @@ button:hover {
   display: block; /* A block-level element starts on a new line and stretches out to the left and right as far as it can. */
   margin: auto auto; /* center the block */
   padding: 10px;
-  width: 960px;
+  width: 640px;
   border: 2px solid #fff;
   background:#fff;
 }
@@ -167,6 +167,8 @@ button:hover {
   width: 900px;
   height: 510px;
 }
+
+
 ```
 ### Javascript
 ```javascript
